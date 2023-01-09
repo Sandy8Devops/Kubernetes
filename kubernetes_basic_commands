@@ -1,0 +1,16 @@
+Kubetnetes
+-----------
+
+Intro
+------
+Creates clusters on top of docker images
+to manage (orchara) them
+
+also know as k8s
+
+.yaml files are created and deployed, updated, deleted
+
+
+setup
+-----
+d
